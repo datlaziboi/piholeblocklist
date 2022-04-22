@@ -1,17 +1,14 @@
-# Title: datlaziboiblocklist
-# Description: Filterlist
-# Last modified: Fri, 22 Apr 2022, 18:33 UTC+02
-0.0.0.0 facebok.com
-0.0.0.0 instagram.com
-0.0.0.0 youtube.com
-0.0.0.0 outlook.com
-0.0.0.0 google.com
-0.0.0.0 tiktok.com
-0.0.0.0 gmail.com
-0.0.0.0 plex.tv
-0.0.0.0 hulu.com
-0.0.0.0 amazon.com
-0.0.0.0 apple.com
-0.0.0.0 netflix.com
-0.0.0.0 twitch.com
-0.0.0.0 ebay.com
+facebok.com
+instagram.com
+youtube.com
+outlook.com
+google.com
+tiktok.com
+gmail.com
+plex.tv
+hulu.com
+amazon.com
+apple.com
+netflix.com
+twitch.com
+ebay.com
